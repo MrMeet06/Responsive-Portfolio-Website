@@ -130,8 +130,8 @@ section .title::after{
 
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
-    font-size: 23px;
+    color: black;
+    font-size: 26px;
     cursor: pointer;
     display: none;
 }
