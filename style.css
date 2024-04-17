@@ -85,7 +85,7 @@ section .title::after{
     padding: 30px;
     font-family: 'poppins';
     transition: all 0.3s ease;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
 .navbar.sticky{
